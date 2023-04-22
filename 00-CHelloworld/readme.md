@@ -16,7 +16,7 @@
 - Maron Leonel
   
 **Compilador seleccionado:**
-- GCC
+- Mingw-64
 
 ---
 
